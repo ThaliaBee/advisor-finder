@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+venv/
+run.bat
+推荐结果/
+personal_info/*
+!personal_info/PUT_YOUR_RESUME_HERE.txt
+results/*
+提示词/
+others_work/
